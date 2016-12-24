@@ -1,0 +1,2 @@
+MP7 (Problem Soving Using Flowchart)
+Ask the user to enter a positive number, say n. Ask another number between 2 - 9 (say base), inclusive. Consider this second input as the desired base to convert n to. Say n is 40 and base is 8. This means that we are to convert 40 to its octal (base 8) equivalent.
